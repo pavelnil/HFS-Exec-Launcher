@@ -1,10 +1,10 @@
 ﻿'use strict';
 
-exports.apiRequired = 12.3;
-exports.version = 3.5;
-exports.description = 'Launch executable files on HFS server from web interface (Windows)';
-exports.repo = "pavelnil/HFS-Exec-Launcher";
-exports.preview = ["https://github.com/pavelnil/HFS-Exec-Launcher/blob/main/screenshots/screenshot1.jpg?raw=true","https://github.com/pavelnil/HFS-Exec-Launcher/blob/main/screenshots/menu.jpg?raw=true"];
+exports.apiRequired = 12.3
+exports.version = 3.5
+exports.description = 'Launch executable files on HFS server from web interface (Windows)'
+exports.repo = "pavelnil/HFS-Exec-Launcher"
+exports.preview = ["https://github.com/pavelnil/HFS-Exec-Launcher/blob/main/screenshots/screenshot1.jpg?raw=true","https://github.com/pavelnil/HFS-Exec-Launcher/blob/main/screenshots/menu.jpg?raw=true"]
 
 exports.config = {
     allowAllUsers: {
